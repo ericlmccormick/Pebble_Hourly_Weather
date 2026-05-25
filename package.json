@@ -1,5 +1,5 @@
 {
-    "author": null,
+    "author": "Eric McCormick",
     "dependencies": {
         "pebble-clay": "^1.0.4"
     },
@@ -23,7 +23,8 @@
             "UNITS",
             "API_KEY",
             "TIME_FORMAT",
-            "IS_NIGHT[24]"
+            "IS_NIGHT[24]",
+            "LOCATION_NAME"
         ],
         "projectType": "native",
         "resources": {
